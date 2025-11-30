@@ -3,7 +3,7 @@
 1. Verify that you have Go 1.25+ installed
 
    ```sh
-   $ go version
+   $ go versionlibsql://aboalfooz0531-smera05311-coder.aws-us-east-2.turso.io
    ```
 
    If `go` is not installed, follow instructions on [the Go website](https://golang.org/doc/install).
